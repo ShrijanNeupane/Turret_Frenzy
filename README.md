@@ -1,3 +1,4 @@
+# TURRET FRENZY
 ## Game Instructions ##
 
 Turrent Frenzy is an aracady puzzle shooter where the object of the game is to clear puzzle levels composed of circular swarms of black and white enemies. You control a turret from a bird’s eye view in the center of the screen that can alternatingly shoot a limited amount of black or white bullets. Each color bullet can destroy the enemies of its corresponding color. With every shot the turret shoots, the waves of enemies come closer to the turret. Collect additional bullets and health packs by killing enemies.  If the turret loses all its health, you lose, but if you can destroy all the enemies before that happens, you win. 
