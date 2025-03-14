@@ -21,4 +21,8 @@ The boss takes 5 of any combination of bullet types to be destroyed. Manage your
 
   
 ## Licensing information ##
-All audiovisual elements were created in-house on the GameMaker Engine, and all respective artists retain their copyrights. External licensing of assets and/or code will be considered upon written request.
+All Sound Effects were created by Shrijan.
+All Artwork was created by Stephon. 
+Codebase was created by Shrijan and Jacob, with help from generative AI.
+Game concept was created by Jacob.
+All components above were created in 2025.
