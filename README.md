@@ -7,7 +7,7 @@ Turrent Frenzy is an aracady puzzle shooter where the object of the game is to c
 
 Players spawn in with 12 each of black and white bullets. Each enemy you destroy is worth 10 points. Upon reaching a score of 200, a boss enemy is spawned. You win upon defeating the boss. Black and white bullets have a 50% chance to drop upon killing black and white enemies, and health packs have a 1/3 chance to drop. 
 
-There are walls that block bullets, and mirrors that players can ricochet their bullets off to catch blocked angles. In addition, at the cost of 2 bullets (one each of black and white), a "universal" bullet can be shot, which ignores walls and travels faster.
+There are walls that block bullets, and mirrors that players can ricochet their bullets off to catch blocked angles. In addition, at the cost of 2 bullets (one each of black and white), a "universal" bullet can be shot, which ignores walls, travels faster, and can destroy both colors of enemies.
 
 The boss takes 5 of any combination of bullet types to be destroyed. Manage your bullets wisely in the waves, and defeat the boss to win the game.
 
