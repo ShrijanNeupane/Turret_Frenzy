@@ -14,10 +14,11 @@ The boss takes 5 of any combination of bullet types to be destroyed. Manage your
 
 ## Cheat Codes ##
 
-* CLTR + B - Unlimited bullets
-* CLTR + I - Turret immunity
-* CLTR + D - Destroy all enemies
-* CLTR + R - Restart room
+* CTRL + B - Unlimited bullets
+* CTRL + I - Turret immunity
+* CTRL + D - Destroy all enemies
+* CTRL + R - Restart room
+* CTRL + S - Instantly spawn boss
 
   
 ## Licensing information ##
@@ -25,4 +26,4 @@ All Sound Effects were created by Shrijan.
 All Artwork was created by Stephon. 
 Codebase was created by Shrijan and Jacob, with help from generative AI.
 Game concept was created by Jacob.
-All components above were created in 2025.
+All components above (C) 2025.
